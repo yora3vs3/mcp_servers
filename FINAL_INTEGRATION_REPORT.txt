@@ -15,7 +15,7 @@ EXECUTIVE SUMMARY
    • Direct HTTP→MCP: ✅ File creation works
 
 ⚠️  Integration Status: PARTIAL
-   • Model can communicate with MCP server via HTTP: ✅ YES
+   • Model can communicate with MCP server via HTTP: ✅ YES..
    • Model supports structured tool calls: ❌ NO
    • Model outputs text-based tool calls: ⚠️  LIMITED
    • Full agent loop execution: ⚠️  REQUIRES WORKAROUND
